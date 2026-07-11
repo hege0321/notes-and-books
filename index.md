@@ -26,7 +26,7 @@ My research examines migrant food practices, culinary networks, and the making o
 
 - [Research](research.html)
 - [Selected Works](selected-works.html)
-- Research Notes *(coming soon)*
+- [Research Notes](notes.html)
 - Publications & Presentations *(coming soon)*
 
 ---
