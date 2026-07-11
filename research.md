@@ -45,6 +45,10 @@ Research topics include:
 - Diaspora
 - Identity
 
-Representative works
+---
 
-> Coming soon.
+## Selected Works
+
+Browse a selection of my publicly available research and industry analysis.
+
+[View Selected Works](selected-works.html)
