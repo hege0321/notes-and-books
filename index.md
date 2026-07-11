@@ -6,9 +6,7 @@ title: Rita Tsai
 
 ### Anthropology × Asian Content Industries
 
-I am an anthropologist and cultural content industry researcher based in Taiwan.
-
-My research examines how culture is produced, circulated, and transformed through industries, migration, policy, and everyday practices. My work combines anthropology with cultural policy and industry research across Asia.
+Researching how culture is produced, circulated, and transformed through industries, migration, policy, markets, and everyday practices across Asia.
 
 ---
 
@@ -16,63 +14,30 @@ My research examines how culture is produced, circulated, and transformed throug
 
 ### Asian Content Industries
 
-Research on games, film, television, publishing, animation, cultural technology, and cultural policy across Asia.
-
-**Current interests**
-
-- Korean content industry
-- Japanese content industry
-- Southeast Asian creative industries
-- Game industry
-- Publishing industry
-- Film & television
-- Cultural technology
-- AI and cultural industries
-
----
+I study cultural industries and policy across Asia, with a focus on games, film and television, publishing, animation, cultural technology, and artificial intelligence.
 
 ### Food, Migration & Anthropology
 
-Research on migration, food networks, assemblages, and the making of Southeast Asia in Taiwan.
-
-**Current interests**
-
-- Southeast Asian migration
-- Food anthropology
-- Assemblage theory
-- Cultural economy
-- Ethnography
-- Diaspora
-- Identity formation
+My research examines migrant food practices, culinary networks, and the making of “Southeast Asia” in Taiwan.
 
 ---
 
 ## Research Notes
 
-Selected essays, field notes, and industry analyses.
+Selected industry analyses, research notes, field observations, and essays.
 
-> Coming soon.
-
----
-
-## Publications
-
-Selected publications and public writings.
-
-> Coming soon.
+> Articles will be added gradually.
 
 ---
 
-## Projects
+## Publications & Presentations
 
-Long-term research projects and knowledge collections.
+Selected academic publications, public writings, conference presentations, and professional research.
 
-- Asian Content Industry Observatory *(under construction)*
-- Southeast Asian Food & Migration Research *(ongoing)*
+> Coming soon.
 
 ---
 
 ## Contact
 
-GitHub: https://github.com/hege0321
-Email: rita7403@gmail.com
+[GitHub](https://github.com/hege0321)
