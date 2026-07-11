@@ -24,9 +24,13 @@ My research examines migrant food practices, culinary networks, and the making o
 
 ## Research Notes
 
-Selected industry analyses, research notes, field observations, and essays.
+## Explore
 
-> Articles will be added gradually.
+- [Research](research.html)
+
+- Research Notes *(coming soon)*
+
+- Publications *(coming soon)*
 
 ---
 
