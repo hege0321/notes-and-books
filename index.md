@@ -75,3 +75,4 @@ Long-term research projects and knowledge collections.
 ## Contact
 
 GitHub: https://github.com/hege0321
+Email: rita7403@gmail.com
